@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LeagueOfWorkout</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ejercicios">Training</string>
+    <string name="title_activity_estadisticas">Stats</string>
+    <string name="title_activity_manejador">Manejador</string>
+    <string name="Entrenamiento_blando">Soft training</string>
+    <string name="Entrenamiento_medio">Average training</string>
+    <string name="Entrenamiento_fuerte">Hard training</string>
+    <string name="kda">KDA (Score)</string>
+    <string name="boton_entrenar">Start!</string>
+    <string name="boton_estadisticas">My stats</string>
+    <string name="ej1">High Knees</string>
+    <string name="ej2">Push-ups</string>
+    <string name="ej3">Climbers</string>
+    <string name="ej4">Leg raises</string>
+    <string name="ej5">Squats</string>
+    <string name="ej6">Jumping jacks</string>
+    <string name="ej7">Lunges</string>
+    <string name="ej8">Sit-ups</string>
+    <string name="ej9">Raised leg push-ups</string>
+    <string name="boton_listo">Done!</string>
+    <string name="faltakda">Enter your KDA</string>
+    <string name="faltanombre">Enter your name</string>
+    <string name="op1">Nice KDA!</string>
+    <string name="op2">Better luck next time!</string>
+    <string name="op3">The next time will be better!</string>
+    <string name="op4">Not a good KDA ... have to keep you going!</string>
+
+</resources>
